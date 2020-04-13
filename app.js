@@ -11,5 +11,3 @@ function ad(){
 
 }
 console.log("I am not executing ile");
-
-s
